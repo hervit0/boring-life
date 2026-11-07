@@ -1,0 +1,16 @@
+{
+	"name": "A Boring Life",
+	"short_name": "Boring Life",
+	"description": "A first-person, room-by-room narrative game about an ordinary day that won't end.",
+	"start_url": "/boring-life/",
+	"display": "standalone",
+	"background_color": "#111827",
+	"theme_color": "#111827",
+	"icons": [
+		{
+			"src": "/favicon.svg",
+			"sizes": "any",
+			"type": "image/svg+xml"
+		}
+	]
+}
