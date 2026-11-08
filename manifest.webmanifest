@@ -4,8 +4,8 @@
 	"description": "A first-person, room-by-room narrative game about an ordinary day that won't end.",
 	"start_url": "/boring-life/",
 	"display": "standalone",
-	"background_color": "#111827",
-	"theme_color": "#111827",
+	"background_color": "#0a0a0a",
+	"theme_color": "#0a0a0a",
 	"icons": [
 		{
 			"src": "/favicon.svg",
